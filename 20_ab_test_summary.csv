@@ -1,0 +1,2 @@
+experiment_start,experiment_end,experiment_days,control_users,treatment_users,control_conversions,treatment_conversions,control_rate_pct,treatment_rate_pct,difference_pp,ci_lower_pp,ci_upper_pp,z_statistic,p_value,decision
+2017-01-02,2017-01-24,22,145274,145310,17489,17264,12.039,11.881,-0.158,-0.394,0.078,-1.3109,0.9051,Keep old page

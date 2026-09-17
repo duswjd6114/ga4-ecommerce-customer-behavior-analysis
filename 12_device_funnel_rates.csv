@@ -1,0 +1,4 @@
+device,view_rate,cart_rate,checkout_rate,purchase_rate,total_conversion_rate
+mobile,21.12,20.01,39.62,49.2,0.82
+tablet,21.06,19.05,40.82,48.06,0.79
+desktop,21.28,19.67,39.18,47.14,0.77
